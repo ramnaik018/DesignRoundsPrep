@@ -21,3 +21,9 @@
     1. suggest ideas/features and ask if they are required? (5-8 features)
         - To get Ideas try to visualise what the products lifecyle looks like and what it does.
         - Dont try to be oversmart and suggest basic requirements for a **minimum viable product** which you can do.
+## **To better understand the steps mentioned, i have attached the Requirement gathering parts and designing taking few examples**
+- **Design a Pen**
+- **Design Tic Tac Toe**
+- **Design Parking Lot**
+- **Design BookMyShow**
+- **Design Splitwise**
