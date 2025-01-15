@@ -27,3 +27,45 @@
 - **Design Parking Lot**
 - **Design BookMyShow**
 - **Design Splitwise**
+
+**Once done with gathering requirements and clarificaions, we can start with Class Diagrams:**
+# Class Diagrams
+
+1. **By visualising the requirement/entity**
+  - we can start visualising the product from outside to inside OR inside to outside
+3. **By identifying the nouns in the PRD**
+
+## TIPS:
+- **we should identify the classes and interface that can be derived form the PRD**
+- **we should also be able to identify the ENUMS and if at all any design patterns that can be used**
+- If at all in near forseeable future , if a noun can have other properties that should also be addressed , we can create a class(enitity) for that
+- Or else if we can decide that current property is something that dosent need any other sepecifications , we can create a ENUM for that.
+- If we have something that has subtypes , then its better to relate them via inheritance , we can also make parent classes as abstract or
+interface to force child classes to have basic features of products (*if some parent is an entity , then its better to make it abstract class and if something
+behaviour then its better to make it interface*).
+- When we try to relate one class to another using UML class diagrams ,(composition or aggregation) - we should be able to justify to the interveiwer if one thing exists without another or not.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
